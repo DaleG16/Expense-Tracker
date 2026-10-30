@@ -1,0 +1,17 @@
+[
+    {
+        "name": "BusFare",
+        "amount": 50,
+        "category": "Food"
+    },
+    {
+        "name": "Shooping",
+        "amount": 1500,
+        "category": "Shopping"
+    },
+    {
+        "name": "Food",
+        "amount": 100,
+        "category": "Food"
+    }
+]
